@@ -1,0 +1,8 @@
+[submodule "kumbhNavigate_Backend"]
+	path = kumbhNavigate_Backend
+	url = https://github.com/devsathwara/kumbhNavigate_Backend.git
+	branch = master
+[submodule "kumbhNavigate_frontend"]
+	path = kumbhNavigate_frontend
+	url = https://github.com/devsathwara/kumbhNavigate_frontend.git
+	branch = master
